@@ -1,4 +1,4 @@
-<h1 align="center">Hello My Friend 👋 Welcome To Life Infotech Web It Solution</h1>
+<h1 align="center">Hello My Friend 👋 Welcome To Life Infotech It Solution</h1>
 <h3 align="center">Life InfoTech IT Solution strength lies in offering client oriented solutions which are highly reliable. Life InfoTech IT Solution, an Indian company, is the leading Information Technology Consulting, Services, and Business Process.Outsourcing Organization that envisioned and instigated the adoption of the flexible business practices that today enable companies to operate more efficiently and produce more value. We are into Software Development, Web Services, IT Education, Graphics & Multimedia and IT Security Solutions. Emphasis on introducing key technology solutions to meet the dynamic needs of business environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lifeinfotechwebit&label=Profile%20views&color=0e75b6&style=flat" alt="lifeinfotechwebit" /> </p>
